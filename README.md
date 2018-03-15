@@ -1,0 +1,1 @@
+Basic hbase producer application.
